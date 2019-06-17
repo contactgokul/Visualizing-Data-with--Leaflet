@@ -17,8 +17,8 @@ In this project, visualizations have been created using earthquakes data that oc
 
 
 #### Visuals created in this Application
-![final_app_part1.png](Images/Grayscale.png)
-![final_app_part2.png](Images/Outdoor.png)
+![final_app_part1.png](Images/Grayscale.PNG)
+![final_app_part2.png](Images/Outdoor.PNG)
 ![final_app_part3.png](Images/5-Advanced.png)
 
 ### Author
