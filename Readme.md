@@ -3,7 +3,7 @@
 In this project, visualizations have been created using earthquakes data that occur globally using a live API feed provided by the USGS (United States Geological Survey). The data in the feed is updated every 5 mins, and includes all earthquake data for the past month. Additional layer of tectonic plates has been created to understand the relationship between tectonic plates and seismic activites.
 
 ### Web application:
-* https://contactgokul.github.io/Visualizing-Data-with-Leaflet/
+* https://contactgokul.github.io/Visualizing-Data-with--Leaflet/
 
 #### Technologies used for deveoping this Application:
 * leaflet.js
